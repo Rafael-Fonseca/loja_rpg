@@ -1,2 +1,2 @@
-# loja_rpg
-Um repositório para por em prática, do início até a conclusão, todos os conhecimentos adquiridos nos módulos Python Birds, PyTools e Django do curso Python Pro. Será uma loja on-line com algumas funcionalidades a mais para RPG em especial Tormenta 20.
+# A plataforma RPG
+Será uma plataforma simples, onde amigos podem se conectar, colocar um background que será sobreposto por uma tabela, depois disso o criador(mestre) poderá tomar algumas ações e o jogador, poderá tomar apenas parte destas ações.
